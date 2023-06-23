@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "vin-part-entry-service",
-    "slug": "vin-part-entry-service",
+    "name": "vin-part-entry-app",
+    "slug": "vin-part-entry-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
